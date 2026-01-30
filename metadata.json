@@ -1,0 +1,7 @@
+{
+  "name": "Target Instalaciones POP",
+  "description": "Soluciones integrales de comunicación visual, material POP, logística y mantenimiento con más de 22 años de experiencia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
